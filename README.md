@@ -2,4 +2,6 @@
 
 Fullstack project. 
 
-Tech Used: TBD
+Tech Used: 
+
+For BackEnd: NestJS
