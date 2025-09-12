@@ -4,4 +4,6 @@ Fullstack project.
 
 Tech Used: 
 
-For BackEnd: NestJS
+NestJS
+
+AngularJS
