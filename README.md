@@ -6,4 +6,6 @@ Tech Used:
 
 NestJS
 
-AngularJS
+Angular
+
+PostgreSQL
