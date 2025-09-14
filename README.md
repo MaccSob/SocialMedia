@@ -1,2 +1,11 @@
 # SocialMedia CLONE 
-Tech Used: TBD
+
+Fullstack project. 
+
+Tech Used: 
+
+NestJS
+
+Angular
+
+PostgreSQL
