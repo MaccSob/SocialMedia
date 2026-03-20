@@ -1,5 +1,5 @@
 {
-  "name": "frontsocial",
+  "name": "socialmedia",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "serve:ssr:frontsocial": "node dist/frontsocial/server/server.mjs"
+    "serve:ssr:socialmedia": "node dist/socialmedia/server/server.mjs"
   },
   "prettier": {
     "printWidth": 100,
@@ -33,7 +33,8 @@
     "@angular/ssr": "^20.3.1",
     "express": "^5.1.0",
     "rxjs": "~7.8.0",
-    "tslib": "^2.3.0"
+    "tslib": "^2.3.0",
+    "zone.js": "~0.15.0"
   },
   "devDependencies": {
     "@angular/build": "^20.3.1",
